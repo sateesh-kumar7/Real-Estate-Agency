@@ -1,0 +1,22 @@
+4/15,NazimabadblockA  30000000  Available A 50000
+Plotno.14Gulistan-e-Joharblock5.  40000500    Available B 45000
+Plotno.47,Gulshan-e-Maymar. 53075001 Available B 50000
+7/13,NorthNazimabadblockB.  10020000 Available A 100000
+Plotno.82,NorthKarachi 24020300 Available B 200000
+Plotno.134,Malirdistrict 10000000 Available A 120000
+Plotno.312,Modeltown 25050500 Available A 210500
+5/17NazimabadblockD 75050000 Available A 400000   
+7/13Gulshan-e-Iqbalblock5 50000010 Available A 500500
+Plotno.711,MalirCantt 40220050 Available B 212000
+Plotno.14, Gulshan-e-Shamim 30005020 Available B 544425
+17/2,Bahriatown 70005040 Available B 500000
+11thStreetAskari4 50000035 Available B 254000
+12thStreetAskari3 42500000 Available B 205000
+Plotno.183,Malirdistrict 42578000 Available A 128500
+8/7NazimabadblockC 22400040 Available B 150000
+14/4NorthNazimabadblockE 78910010 Available A 300500
+19thStreetAskari2 51200050 Available B 100000
+12/3Gulshan-e-Iqbalblock2 25000050 Available B 254000
+Plotno.512Johartown 41200050 Available A 254100
+17/3Gulshan-e-Iqbalblock3 34200000 Available A 300000
+17thstreetAskari1 60000050 Available A 400000
